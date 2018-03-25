@@ -9,7 +9,6 @@ order: 4
 Paleofire reconstruction in Miocene Wenshan, Yunnan, SW China, 07. 2015-06. 2018. Open Subject Fund from <a href="http://english.nigpas.cas.cn/rh/rd/sklps/" target="_blank">State Key Laboratory of Palaeobiology and Stratigraphy</a>, <a href="http://english.nigpas.cas.cn" target="_blank">Nanjing Institute of Geology and Palaeontology (NIGPAS)</a>, <a href="http://english.cas.cn" target="_blank">Chinese Academy of Sciences</a>, led by Shufeng Li, from Xishuangbanna Tropical Botanical Garden (XTBG), Chinese Academy of Sciences. (Participated)
 
 <img src="assets/images/charcoal.jpg">
-
 Li et al., 2015, Paleo3
 
 ### PhD Candidate
