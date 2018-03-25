@@ -6,7 +6,7 @@ order: 3
 
 ### October 2016 – 
 
-<img src="assets/images/UVA.jpg">
+<img src="assets/images/UVA.png">
 
 Ph.D student, Department of Ecosystem and Landscape Dynamics, <a href="http://ibed.uva.nl" target="_blank">Institute for Biodiversity and Ecosystem Dynamics (IBED)</a>, <a href="http://www.uva.nl/en/home" target="_blank">University of Amsterdam</a>, The Netherlands. (PhD Project title: Plant turnover 
 in response to global climatic change during the Cenozoic: A palynological study of key sites in SSE Asia. 
