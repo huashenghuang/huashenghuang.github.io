@@ -4,6 +4,8 @@ icon: fa-graduation-cap
 order: 3
 ---
 
+<script type="text/javascript" src="assets/js/gem-download-count.js" defer></script>
+
 ### October 2016 – 
 
 <img src="assets/images/UVA.png">
