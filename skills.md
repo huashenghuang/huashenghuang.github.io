@@ -9,7 +9,6 @@ order: 2
 ### Palynology
 
 Pollen morphology in Eocene – Oligocene Central Myanmar Basin
-
 <img src="assets/images/pollen.jpg">
 
 -----------------
@@ -17,13 +16,11 @@ Pollen morphology in Eocene – Oligocene Central Myanmar Basin
 ### Paleobotany
 
 Fossil leaf architecture and cuticular analysis
-
-assets/images/leaves.jpg
+<img src="assets/images/leaves.jpg">
 
 -----------------
 
 ### Languages
 
 Mandarin and Leizhouhua (native languages), Cantonese (fluent), English (fluent)
-
-assets/images/languages.jpg
+<img src="assets/images/leanguges.jpg">
