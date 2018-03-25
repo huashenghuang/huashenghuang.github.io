@@ -4,11 +4,7 @@ icon: fa-envelope
 order: 4
 ---
 
-Emails: [buxushuang@gmail.com](mailto:buxushuang@gmail.com) & [H.Huang@uva.nl](mailto:H.Huang@uva.nl)
-
-<a href="http://www.uva.nl/en/profile/h/u/h.huang/h.huang.html" target="_blank">Personal UvA website</a>
-
-<a href="https://www.researchgate.net/profile/Huasheng_Huang" target="_blank">Researchgate</a>
+Emails: [buxushuang@gmail.com](mailto:buxushuang@gmail.com) or [H.Huang@uva.nl](mailto:H.Huang@uva.nl)
 
 <p> Or you can reach me with the following form.</p>
 
