@@ -1,6 +1,6 @@
 ---
 title: Fieldworks
-subtitle: Here is the list of scientific publications during my Master's and PhD so far.
+subtitle: Here are the I have taken part in during my Master's and PhD so far.
 icon: fa-graduation-cap
 permalink: /fieldworks
 order: 3
