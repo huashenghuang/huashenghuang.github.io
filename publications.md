@@ -3,7 +3,7 @@ title: Publications
 subtitle: Here is the list of scientific publications during my Master's and PhD so far.
 icon: fa-graduation-cap
 permalink: /publications
-order: 3
+order: 4
 ---
 
 1. H. Huang, J. Hu, T. Su, Z. Zhou, 2016. The occurrence of Quercus heqingensis n. sp. and its application to palaeo-CO2
