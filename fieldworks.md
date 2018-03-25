@@ -1,7 +1,7 @@
 ---
 title: Fieldworks
 subtitle: Here are the I have taken part in during my Master's and PhD so far.
-icon: fa-hammer
+icon: fa-knief
 permalink: /fieldworks
 order: 3
 ---
