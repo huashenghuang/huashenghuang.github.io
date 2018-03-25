@@ -11,7 +11,7 @@ Ph.D student, Department of Ecosystem and Landscape Dynamics, <a href="http://ib
 in response to global climatic change during the Cenozoic: A palynological study of key sites in SSE Asia. 
 (Supervisors: Dr. HOORN Carina, Professor HOOGHIEMSTRA Henry. External advisors: Dr. LICHT Alexis, Dr. MORLEY Robert, Dr. DUPONT-NIVET Guillaume).
 
-<img src="assets/images/uva_logoA.jpg">
+<img src="assets/images/uva_logo.jpg">
 
 
 ### June 2016
