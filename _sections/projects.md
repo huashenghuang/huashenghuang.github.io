@@ -1,7 +1,7 @@
 ---
 title: Projects
 icon: fa-rocket
-order: 3
+order: 4
 ---
 
 <script type="text/javascript" src="assets/js/gem-download-count.js" defer></script>
