@@ -5,4 +5,5 @@ subtitle: My website established!
 author: Huasheng
 ---
 
-This is Huasheng Huang's website!
+<img src="assets/images/13.jpg">
+Guess what is it? You will find out in my website!
