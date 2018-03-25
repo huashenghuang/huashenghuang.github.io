@@ -22,4 +22,4 @@ Li et al., 2015, Paleo3
 
 This project is collaborated by CNRS, University of Potsdam in Germany and University of Amsterdam in the Netherlands.
 
-<img src="assets/images/cnrs.png">   <img src="assets/images/potsdam.jpg">   <img src="assets/images/UVA.png">
+<img src="assets/images/cnrs.png">   <img src="assets/images/potsdam.jpg">    <img src="assets/images/UVA.png">
