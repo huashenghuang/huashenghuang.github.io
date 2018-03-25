@@ -1,7 +1,7 @@
 ---
 title: Contact
 icon: fa-envelope
-order: 4
+order: 5
 ---
 
 Emails: [buxushuang@gmail.com](mailto:buxushuang@gmail.com) or [H.Huang@uva.nl](mailto:H.Huang@uva.nl), or you can reach me using the following form.
