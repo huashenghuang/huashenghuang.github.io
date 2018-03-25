@@ -18,5 +18,4 @@ estimates (in Chinese). <a href="http://engine.scichina.com/publisher/scp/journa
 4. V. Littell, A. Licht, G. Dupont-Nivet, Zaw Win, A. Schauer, Hnin Hnin Swe, Myat Kay Thi, Day Wa Aung, P. Roperch, F. Poblete, H. Huang, C. Hoorn, Kyaing Sein, 2017. Paleoclimatic reconstruction of late Eocene Myanmar via stable isotope proxies. <a href="http://community.geosociety.org/gsa2017/home" target="_blank">GSA2017</a>, Seattle, Washington, USA.
 
 
-
-![_config.yml]({{ site.baseurl }}/images/Publications.JPG)
+<img src="assets/images/Publications.jpg">
