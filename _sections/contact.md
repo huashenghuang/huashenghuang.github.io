@@ -6,7 +6,11 @@ order: 4
 
 Emails: [buxushuang@gmail.com](mailto:buxushuang@gmail.com) & [H.Huang@uva.nl](mailto:H.Huang@uva.nl)
 
+Postal address:
+Department of Ecosystem & Landscape Dynamics, Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam, P.O. Box 94248, 1090 GE Amsterdam, The Netherlands
+
 Tel: +31 (0)62 619 1953	
+
 
 <a href="http://www.uva.nl/en/profile/h/u/h.huang/h.huang.html" target="_blank">Personal UvA website</a>
 
