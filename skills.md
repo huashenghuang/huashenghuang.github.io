@@ -24,5 +24,3 @@ Fossil leaf architecture and cuticular analysis
 ### Languages
 
 Mandarin and Leizhouhua (native languages), Cantonese (fluent), English (fluent)
-
-<img src="assets/images/languages.jpg">
