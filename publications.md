@@ -6,8 +6,6 @@ permalink: /publications
 order: 4
 ---
 
-<script type="text/javascript" src="assets/js/gem-download-count.js" defer></script>
-
 1. H. Huang, J. Hu, T. Su, Z. Zhou, 2016. The occurrence of Quercus heqingensis n. sp. and its application to palaeo-CO2
 estimates (in Chinese). <a href="http://engine.scichina.com/publisher/scp/journal/CSB?slug=Overview" target="_blank">Chinese Science Bulletin</a>, 61(12):1354-1364. <a href="http://csb.scichina.com:8080/CN/10.1360/N972015-01198#" target="_blank">PDF link</a>
 
