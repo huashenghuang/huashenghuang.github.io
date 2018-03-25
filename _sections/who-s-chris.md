@@ -1,11 +1,11 @@
 ---
-title: Who's Chris?
+title: Who's Huasheng?
 icon: fa-question
 order: 2
 ---
 
 <script type="text/javascript" src="assets/js/gem-download-count.js" defer></script>
 
-I'm a front-end web developer!
+I am a PhD student within Department of Ecosystem & Landscape Dynamics at University of Amsterdam under the supervision of Carina Hoorn and Henry Hooghiemstra, and part of Myanmar Paleoclimate and Geodynamics research group (MyaPGR), led by Alexis Licht, from University of Washington. I am also involved in a ERC consolidator grant - MAGIC (Monsoons of Asia caused Greenhouse to Icehouse Cooling), led by Guillaume Dupont-Nivet, from CNRS and Univeristy of Potsdam, Germany.
 
-I'm currently making lots of open-source web templates into Jekyll themes so more people can use them. The theme you're looking at, my [Jekyll version](https://github.com/chrisbobbe/jekyll-theme-prologue) of [Prologue by HTML5 UP](https://html5up.net/prologue), has <a href="https://rubygems.org/gems/jekyll-theme-prologue"><span id="download-counter">[unavailable]</span> gem downloads</a>! I also make intuitive user interfaces with Angular and React. I started coding when I was nine and kept it up through college where I did an English degree. My creative and analytical skills might be a great fit for your project, especially if it means taking something old and clunky and making it shiny, responsive, and accessible.
+I started my PhD project at University of Amsterdam in October 2016. In this project, I focus on two key climatic events of the Cenozoic history and research these at two sites in the south-southeastern Asian region. The specific aim is to analyse the changes in plant composition by means of pollen and spores, and determine how plants responded to climate change at the Eocene-Oligocene Transition, and in the late Miocene in this monsoon dominated region.
