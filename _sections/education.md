@@ -14,8 +14,6 @@ Ph.D student, Department of Ecosystem and Landscape Dynamics, <a href="http://ib
 in response to global climatic change during the Cenozoic: A palynological study of key sites in SSE Asia. 
 (Supervisors: Dr. HOORN Carina, Professor HOOGHIEMSTRA Henry. External advisors: Dr. LICHT Alexis, Dr. MORLEY Robert, Dr. DUPONT-NIVET Guillaume).
 
-<img src="assets/images/uva_logo.jpg">
-
 
 ### June 2016
 
@@ -29,14 +27,6 @@ PhD scholarship from China Scholarship Council (CSC).
 MSc Bioengineering, <a href="http://prg-en.groups.xtbg.ac.cn" target="_blank">Paleoecology Research Group</a>, <a href="http://210.72.95.133" target="_blank">Key Laboratory of Tropical Forest Ecology</a>, 
 <a href="http://english.xtbg.cas.cn">Xishuangbanna Tropical Botanical Garden (XTBG)</a>, <a href="http://english.cas.cn" target="_blank">Chinese Academy of Sciences</a>, Mengla, Yunnan, China. (MSc thesis: Late Pliocene fossil plants from Heqing, Yunnan, SW China and their paleoenvironmental implications. Supervisor: Professor ZHOU Zhekun)
 
-<img src="assets/images/xtbg.jpg">
-
-Tabebuia sp.
-
-<img src="assets/images/11.jpg">
-
-Pandanus sp.
-
 
 ### June 2015
 
@@ -46,8 +36,6 @@ Pandanus sp.
 ### February 2015
 
 Certificate of excellent contribution in Community Curation of Rice Genes in <a href="http://wiki.ic4r.org/index.php/Main_Page" target="_blank">RiceWiki</a> in 2014, Beijing, China.
-
-<img src="assets/images/rice.jpg">
 
 
 ### August 2013
