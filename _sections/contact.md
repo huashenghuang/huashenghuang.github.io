@@ -4,9 +4,7 @@ icon: fa-envelope
 order: 4
 ---
 
-Emails: [buxushuang@gmail.com](mailto:buxushuang@gmail.com) or [H.Huang@uva.nl](mailto:H.Huang@uva.nl)
-
-<p> Or you can reach me with the following form.</p>
+Emails: [buxushuang@gmail.com](mailto:buxushuang@gmail.com) or [H.Huang@uva.nl](mailto:H.Huang@uva.nl), <p> Or you can reach me with the following form.</p>
 
 <form method="post" action="https://formspree.io/{{ site.email }}">
   <div class="row">
