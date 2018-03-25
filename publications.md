@@ -1,7 +1,7 @@
 ---
 title: Publications
 subtitle: Here is the list of scientific publications during my Master's and PhD so far.
-icon: fa-book
+icon: fa-file-text
 permalink: /publications
 order: 4
 ---
