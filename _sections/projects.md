@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Current projects
 icon: fa-rocket
 order: 4
 ---
