@@ -6,8 +6,6 @@ permalink: /fieldworks
 order: 3
 ---
 
-<img src="assets/images/field.jpg">
-
 ### November 2017
 
 Central Myanmar Basin (Chindwin subbasin & Minbu subbasin) – organized by Myanmar Paleoclimte and Geodynamics research group (MyaPGR) led by Dr. LICHT Alexis.
@@ -41,3 +39,6 @@ East Tibet (Changdu District) and southern Sichuan (Xiangcheng), China – organ
 ### April 2015
 
 Central Yunnan (Lvhe), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
+
+
+<img src="assets/images/field.jpg">
