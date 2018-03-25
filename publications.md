@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: Here is the list of scientific publications during my Master's and PhD so far.
+subtitle: Here is the list of scientific publications during my Master's and PhD candidate so far.
 icon: fa-file-text
 permalink: /publications
 order: 4
