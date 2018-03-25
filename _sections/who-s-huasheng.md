@@ -10,7 +10,7 @@ I am a PhD student within <a href="http://ibed.uva.nl/content/research-departmen
 
 I started my PhD project at University of Amsterdam in October 2016. In this project, I focus on two key climatic events of the Cenozoic history and research these at two sites in the south-southeastern Asian region. The specific aim is to analyse the changes in plant composition by means of pollen and spores, and determine how plants responded to climate change at the Eocene-Oligocene Transition, and in the late Miocene in this monsoon dominated region.
 
-<img src="assets/images/12.jpg">
+<img src="assets/images/12.JPG">
 
 Photo in Mount Langla, Tibet
 
