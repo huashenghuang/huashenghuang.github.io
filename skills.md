@@ -10,7 +10,7 @@ order: 2
 
 Pollen morphology in Eocene – Oligocene Central Myanmar Basin
 
-assets/images/pollen.jpeg
+assets/images/pollen.jpg
 
 -----------------
 
