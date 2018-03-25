@@ -6,13 +6,13 @@ order: 3
 
 ### October 2016 – 
 
-![_config.yml]({{ site.baseurl }}/images/UVA.png)
+<img src="assets/images/UVA.jpg">
 
 Ph.D student, Department of Ecosystem and Landscape Dynamics, <a href="http://ibed.uva.nl" target="_blank">Institute for Biodiversity and Ecosystem Dynamics (IBED)</a>, <a href="http://www.uva.nl/en/home" target="_blank">University of Amsterdam</a>, The Netherlands. (PhD Project title: Plant turnover 
 in response to global climatic change during the Cenozoic: A palynological study of key sites in SSE Asia. 
 (Supervisors: Dr. HOORN Carina, Professor HOOGHIEMSTRA Henry. External advisors: Dr. LICHT Alexis, Dr. MORLEY Robert, Dr. DUPONT-NIVET Guillaume).
 
-![_config.yml]({{ site.baseurl }}/images/uva_logo.jpg)
+<img src="assets/images/uva_logoA.jpg">
 
 
 ### June 2016
@@ -22,16 +22,16 @@ PhD scholarship from China Scholarship Council (CSC).
 
 ### September 2013 –July 2016
 
-![_config.yml]({{ site.baseurl }}/images/xtbg_small.jpg)
+<img src="assets/images/xtbg_small.jpg">
 
 MSc Bioengineering, <a href="http://prg-en.groups.xtbg.ac.cn" target="_blank">Paleoecology Research Group</a>, <a href="http://210.72.95.133" target="_blank">Key Laboratory of Tropical Forest Ecology</a>, 
 <a href="http://english.xtbg.cas.cn">Xishuangbanna Tropical Botanical Garden (XTBG)</a>, <a href="http://english.cas.cn" target="_blank">Chinese Academy of Sciences</a>, Mengla, Yunnan, China. (MSc thesis: Late Pliocene fossil plants from Heqing, Yunnan, SW China and their paleoenvironmental implications. Supervisor: Professor ZHOU Zhekun)
 
-![_config.yml]({{ site.baseurl }}/images/xtbg.JPG)
+<img src="assets/images/xtbg.jpg">
 
 Tabebuia sp.
 
-![_config.yml]({{ site.baseurl }}/images/11.JPG)
+<img src="assets/images/11.jpg">
 
 Pandanus sp.
 
@@ -45,7 +45,7 @@ Pandanus sp.
 
 Certificate of excellent contribution in Community Curation of Rice Genes in <a href="http://wiki.ic4r.org/index.php/Main_Page" target="_blank">RiceWiki</a> in 2014, Beijing, China.
 
-![_config.yml]({{ site.baseurl }}/images/rice.jpg)
+<img src="assets/images/rice.jpg">
 
 
 ### August 2013
@@ -61,12 +61,12 @@ Third-class scholarship from South China Agricultural University, Guangzhou, Chi
 
 ### September 2009 –June 2013
 
-![_config.yml]({{ site.baseurl }}/images/scaulogo.jpg)
+<img src="assets/images/scaulogo.jpg">
 
 BSc Agriculture (horticulture), <a href="http://yy.scau.edu.cn" target="_blank">College of Horticulture</a>, <a href="http://english.scau.edu.cn" target="_blank">South China Agricultural University</a>, Guangzhou, 
 Guangdong, China. (BSc thesis: Effect of Sulphur dioxide fumigation on post-harvest physiology and quality of Longan (cv. Caopuzhong) fruit stored at low temperature. Advisor: Professor WU Zhenxian)
 
-![_config.yml]({{ site.baseurl }}/images/scau flowers.jpg)
+<img src="assets/images/scau flowers.jpg">
 
 
 ### December 2012
