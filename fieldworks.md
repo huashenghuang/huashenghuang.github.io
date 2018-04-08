@@ -41,4 +41,19 @@ East Tibet (Changdu District) and southern Sichuan (Xiangcheng), China – organ
 Central Yunnan (Lvhe), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
 
 
+### January 2015
+
+Central and southwest Yunnan (Lvhe, Baoshan, Dehong & Lincang), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
+
+
+### December 2014
+
+East, central and northwest Yunnan (Qujing, Lvhe, Heqing & Shangri-la), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
+
+
+### October & November 2014
+
+Northwest Yunnan (Dali, Lijiang & Shangri-la), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
+
+
 <img src="assets/images/field.jpg">
